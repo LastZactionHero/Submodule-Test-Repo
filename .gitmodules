@@ -1,0 +1,12 @@
+[submodule "public/steal"]
+	path = public/steal
+	url = git@github.com:LastZactionHero/steal.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git@github.com:LastZactionHero/jquerymx.git
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = git@github.com:LastZactionHero/documentjs.git
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = git@github.com:LastZactionHero/funcunit.git
